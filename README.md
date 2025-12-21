@@ -9,7 +9,6 @@
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A?style=plastic&logo=selenium&logoColor=white) 
 ![Pytest](https://img.shields.io/badge/Pytest-%23065381?style=plastic&logo=pytest&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
-![Excel VBA](https://img.shields.io/badge/Excel_VBA-%23217346.svg?style=plastic&logo=microsoftexcel&logoColor=white)
 
 #### Interface & Design
 ![JS](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=plastic&logo=javascript&logoColor=black) 
