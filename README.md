@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=150&section=header&text=Pan%20|%20System%20Automator&fontSize=50&fontColor=ffffff&fontAlignY=40" />
 </p>
 
-### 📜 Skills
-
 #### ⚔️ 自動化與後端邏輯 (Automation Core)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white) 
 ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33?style=plastic&logo=playwright&logoColor=white) 
