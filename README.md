@@ -4,7 +4,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=24&pause=1000&color=3776AB&width=800&lines=%E1%97%A7%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E1%97%A3" alt="Pac-man separator" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=26&pause=3000&color=3776AB&width=900&lines=%E1%97%A7%E2%80%A2%E2%80%A2%E1%97%A3+%E1%97%A7%E2%80%A2%E2%80%A2%E1%97%A3+%E1%97%A7%E2%80%A2%E2%80%A2%E1%97%A3+%E1%97%A7%E2%80%A2%E2%80%A2%E1%97%A3+%E1%97%A7%E2%80%A2%E2%80%A2%E1%97%A3" alt="Pac-man team separator" />
 </p>
 
 #### Automation Core
