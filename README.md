@@ -3,15 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=150&section=header&text=Pan%20|%20System%20Automator&fontSize=50&fontColor=ffffff&fontAlignY=40" />
 </p>
 
-我是一名專注於**「流程優化與自動化架構」**的開發者。熱衷於將重複的人工作業轉化為高效的代碼邏輯，並在複雜的系統中尋找最優的品質解決方案。
-
-* **⚡ 曾實作資料清洗與驗證腳本，成功將**跨日的繁瑣作業壓縮至 45 分鐘內**自動執行完畢。
-* **🧩 具備**電商平台、醫療預約系統及餐飲線上平台**的深度自動化與 QA 經驗。
-* **🧪 比起傳統的手動點擊，我更傾向於使用 **Pytest / Playwright** 建立模組化且可持續維護的測試框架。
-
----
-
-### 📜 技能裝備欄 (Equipped Skills)
+### 📜 Skills
 
 #### ⚔️ 自動化與後端邏輯 (Automation Core)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white) 
@@ -34,8 +26,3 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pan2618&layout=donut&theme=transparent&title_color=3776AB&text_color=333333&icon_color=3776AB&hide_border=true&langs_count=5&langs_list=Python,VBA,JavaScript,HTML,CSS" width="400px" />
 </p>
-
----
-
-### 🐲 冒險紀錄 (The 3D Dungeon Map)
-![GitHub Isometric View](https://github-readme-stats.vercel.app/api?username=pan2618&show_icons=true&theme=radical&hide_border=true)
