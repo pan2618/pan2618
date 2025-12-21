@@ -1,6 +1,4 @@
 
-## 關於我
-我是一名 [您的職位]，精通 [技術 A] 和 [技術 B]。目前正在...
 
 ### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
