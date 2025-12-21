@@ -1,5 +1,7 @@
+# 🏰 Welcome
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&pause=1000&color=000000&width=600&lines=Adventurer+Pan+has+entered+the+dungeon!;Class:+SDET+(Software+Dev+Engineer+in+Test);Skills:+Automation+%26+Data+Analysis;Quest:+Automating+the+World+with+Code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&pause=1000&color=3776AB&width=600&lines=Adventurer+Pan+has+entered+the+dungeon!;Class:+SDET+(Software+Dev+Engineer+in+Test);Skills:+Automation+%26+Data+Analysis;Quest:+Automating+the+World+with+Code!" alt="Typing SVG" />
 </a>
 
 ---
@@ -20,5 +22,17 @@
 ![PS](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white)
 
 ---
+
+### 📊 技能能量分佈 (Skill Mana Distribution)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pan2618&layout=donut&theme=transparent&title_color=3776AB&text_color=333333&icon_color=3776AB&hide_border=true&langs_count=6&langs_list=Python,JavaScript,HTML,CSS,VBA,PowerShell" width="400px" />
+</p>
+
+<br>
+
+---
+
+
 
 
