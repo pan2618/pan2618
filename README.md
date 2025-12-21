@@ -1,10 +1,6 @@
 
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=150&section=header&text=Software%20Development%20Engineer&fontSize=42&fontColor=ffffff&fontAlignY=40" />
-</p>
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=24&pause=500&color=3776AB&width=900&lines=%E2%9B%A1+SCANNING+SYSTEM+INTEGRITY...;%F0%9F%9B%A1++++%F0%9F%9B%A1++++%F0%9F%9B%A1++++%F0%9F%9B%A1++++%F0%9F%9B%A1++++%F0%9F%9B%A1;%5B+SYSTEM+PROTECTED+BY+AUTOMATION+%5D" alt="Shield Array" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=150&section=header&text=Software%20Development%20Engineer&fontSize=42&fontColor=ffffff&fontAlignY=30" />
 </p>
 
 #### Automation Core
