@@ -1,3 +1,4 @@
+![Views](https://hits.seeyoufarm.com/dotgh/hit.svg?url=https://github.com/pan2618)
 ### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
