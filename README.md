@@ -19,8 +19,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
 ![PS](https://img.shields.io/badge/Photoshop-%2331A8FF?style=plastic&logo=adobephotoshop&logoColor=white)
 
----
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pan2618&layout=donut&theme=transparent&title_color=3776AB&text_color=333333&icon_color=3776AB&hide_border=true&langs_count=5&langs_list=Python,VBA,JavaScript,HTML,CSS" width="400px" />
 </p>
