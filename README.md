@@ -6,16 +6,16 @@
 
 ---
 
-### 📜 角色技能書 (Character Skill Book)
+### 📜 Skill Book
 
-#### ⚔️ 後端與自動化 (Back-end & Automation)
+#### 後端與自動化 (Back-end & Automation)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A?style=plastic&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33?style=plastic&logo=playwright&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
 ![Excel VBA](https://img.shields.io/badge/Excel_VBA-%23217346.svg?style=plastic&logo=microsoftexcel&logoColor=white)
 
-#### 🔮 前端與設計 (Front-end & Design)
+#### 前端與設計 (Front-end & Design)
 ![JS](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
@@ -23,10 +23,4 @@
 
 ---
 
-### 📊 技能能量分佈 (Skill Mana Distribution)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pan2618&layout=donut&theme=transparent&title_color=000000&text_color=333333&icon_color=000000&hide_border=true&langs_count=8" width="400px" />
-</p>
-
-<br>
