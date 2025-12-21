@@ -23,7 +23,7 @@
 
 ---
 
-### 📊 技能能量分佈 (Skill Mana Distribution)
+### 📊 技能分佈 (Skill Mana Distribution)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pan2618&layout=donut&theme=transparent&title_color=3776AB&text_color=333333&icon_color=3776AB&hide_border=true&langs_count=6&langs_list=Python,JavaScript,HTML,CSS,VBA,PowerShell" width="400px" />
@@ -32,7 +32,5 @@
 <br>
 
 ---
-
-
 
 
