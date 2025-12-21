@@ -1,4 +1,3 @@
-# 🏰 Welcome
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&pause=1000&color=3776AB&width=600&lines=Adventurer+Pan+has+entered+the+dungeon!;Class:+SDET+(Software+Dev+Engineer+in+Test);Skills:+Automation+%26+Data+Analysis;Quest:+Automating+the+World+with+Code!" alt="Typing SVG" />
