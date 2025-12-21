@@ -3,10 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=150&section=header&text=Software%20Development%20Engineer&fontSize=42&fontColor=ffffff&fontAlignY=40" />
 </p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=24&pause=1000&color=3776AB&width=600&lines=Turning+logic+into+automated+reality...;Executing+scripts.+Optimizing+flows.;Building+the+future,+one+commit+at+a+time.;Let+the+code+do+the+heavy+lifting." alt="Typing SVG" />
-</a>
-
 #### Automation Core
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white) 
 ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33?style=plastic&logo=playwright&logoColor=white) 
