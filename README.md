@@ -3,7 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=150&section=header&text=Software%20Development%20Engineer&fontSize=42&fontColor=ffffff&fontAlignY=40" />
 </p>
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=1000&color=3776AB&width=900&lines=%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE;%E2%80%A2+%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE;%E2%80%A2+%E2%80%A2+%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE;%E2%80%A2+%E2%80%A2+%E2%80%A2+%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE" alt="Space Invaders" />
+  <img src="https://img.shields.io/badge/HP-█████████████████████████░░-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/MP-██████████████████░░░░░░░-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/EXP-99%25-3776AB?style=flat-square" />
 </p>
 
 #### Automation Core
