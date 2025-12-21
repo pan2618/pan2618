@@ -2,11 +2,9 @@
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=150&section=header&text=Software%20Development%20Engineer&fontSize=42&fontColor=ffffff&fontAlignY=40" />
 </p>
-
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=26&pause=3000&color=3776AB&width=900&lines=%E1%97%A7%E2%80%A2%E2%80%A2%E1%97%A3+%E1%97%A7%E2%80%A2%E2%80%A2%E1%97%A3+%E1%97%A7%E2%80%A2%E2%80%A2%E1%97%A3+%E1%97%A7%E2%80%A2%E2%80%A2%E1%97%A3+%E1%97%A7%E2%80%A2%E2%80%A2%E1%97%A3" alt="Pac-man team separator" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=1000&color=3776AB&width=900&lines=%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE;%E2%80%A2+%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE;%E2%80%A2+%E2%80%A2+%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE;%E2%80%A2+%E2%80%A2+%E2%80%A2+%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE" alt="Space Invaders" />
 </p>
-
 #### Automation Core
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white) 
 ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33?style=plastic&logo=playwright&logoColor=white) 
