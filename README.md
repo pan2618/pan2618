@@ -1,17 +1,8 @@
-```python
-class Pan2618:
-    def __init__(self):
-        self.name = "Pan"
-        self.role = "Software Development Engineer in Test (SDET)"
-        self.location = "Taiwan"
-        self.skills = ["Selenium", "Playwright", "Python", "Pandas"]
-        self.tools = ["Excel VBA", "Photoshop"]
-
-    def say_hi(self):
-        print("Thanks for dropping by! I automate things to make life easier.")
-
-me = Pan2618()
-me.say_hi()
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Pan;Software+Development+Engineer+in+Test;I+Automate+Web+with+Playwright;Data+Analyst+with+Pandas;Always+Learning+New+Tech" alt="Typing SVG" />
+  </a>
+</p>
 
 ### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
