@@ -1,36 +1,39 @@
-# 🏰 Welcome to Pan's Dungeon
+# 🏰 Adventurer Pan's Command Center
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&pause=1000&color=000000&width=600&lines=Adventurer+Pan+has+entered+the+dungeon!;Class:+SDET+(Software+Dev+Engineer+in+Test);Weapon:+Playwright+%26+Selenium;Magic:+Python+%26+Pandas;Quest:+Automating+Everything!" alt="Typing SVG" />
-</a>
-
----
-
-### 📜 角色屬性與技能書 (Character Stats & Skills)
-
-這裡存放著我在自動化測試領域冒險所需的強大技能。
-
-#### ⚔️ 主要裝備 (Main Hand - Automation & Code)
-![Python](https://img.shields.io/badge/LV.99-Python-%233776AB.svg?style=plastic&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/LV.80-Selenium-%2343B02A?style=plastic&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/LV.85-Playwright-%232EAD33?style=plastic&logo=playwright&logoColor=white)
-![VBA](https://img.shields.io/badge/LV.70-VBA-%23217346.svg?style=plastic&logo=microsoftexcel&logoColor=white)
-
-#### 🔮 魔法與卷軸 (Magic & Scrolls - Data & Frontend)
-![Pandas](https://img.shields.io/badge/Scroll-Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-![JS](https://img.shields.io/badge/Spell-javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![HTML](https://img.shields.io/badge/Rune-html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/Rune-css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-
-#### 🎒 輔助道具 (Inventory - Tools)
-![PS](https://img.shields.io/badge/Item-Photoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white)
+<table border="0">
+  <tr>
+    <td width="60%">
+      <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&pause=1000&color=000000&width=500&lines=Initializing+Dungeon+OS...;Scanning+for+Bugs...;Status:+Legendary+Tester;Current+Quest:+Mastering+Automation" />
+      <br>
+      <p><b>角色等級：</b> LV.26 (Software Engineer in Test)</p>
+      <p><b>冒險天數：</b> 自 202X 年至今</p>
+    </td>
+    <td width="40%">
+      <img src="https://github-readme-stats.vercel.app/api?username=pan2618&show_icons=true&theme=pixel_fantasy&count_private=true" width="300px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🗺️ 冒險地圖 (Adventure Map)
+### ⚔️ 技能裝備欄 (Equipped Skills)
 
-<br>
+| 裝備位置 | 道具名稱 (技術) | 屬性加成 (功能) |
+| :--- | :--- | :--- |
+| **右手武器** | `Playwright / Selenium` | +99 自動化破防 (Web Testing) |
+| **左手副手** | `Pandas / Python` | +85 數據洞察 (Data Analysis) |
+| **魔法披風** | `HTML / CSS / JS` | +70 視覺幻術 (Frontend Design) |
+| **隱藏卷軸** | `Excel VBA` | +60 古代遺物自動化 (Legacy System Support) |
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pan2618&color=grey&style=plastic&label=DUNGEON+VISITORS" alt="Views" />
-</p>
+---
+
+### 📊 戰鬥力分析 (Latest Metrics)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pan2618&layout=compact&theme=dark&hide_border=true&title_color=000000&icon_color=000000&bg_color=ffffff00" align="left" />
+
+<br><br><br><br><br><br><br>
+
+---
+
+### 🐲 冒險足跡 (The 3D Dungeon Map)
+![GitHub Isometric View](https://github-readme-stats.vercel.app/api?username=pan2618&show_icons=true&theme=radical)
