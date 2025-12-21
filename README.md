@@ -25,9 +25,6 @@
 #### 🎒 輔助道具 (Inventory - Tools)
 ![PS](https://img.shields.io/badge/Item-Photoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white)
 
----
-
-### 📊 戰鬥力分析 (Latest Metrics)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pan2618&layout=compact&theme=dark&hide_border=true&title_color=000000&icon_color=000000&bg_color=ffffff00" align="left" />
 
