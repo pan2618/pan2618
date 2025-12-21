@@ -1,5 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=您的GitHub帳號名稱&show_icons=true&theme=tokyonight)
-
 ### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
