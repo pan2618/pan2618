@@ -3,9 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=150&section=header&text=Software%20Development%20Engineer&fontSize=42&fontColor=ffffff&fontAlignY=40" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/HP-█████████████████████████░░-3776AB?style=flat-square" />
-  <img src="https://img.shields.io/badge/MP-██████████████████░░░░░░░-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/EXP-99%25-3776AB?style=flat-square" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=22&pause=1000&color=3776AB&width=600&lines=%E1%97%A7+%E2%80%A2+%E2%80%A2+%E1%97%A3+++%E1%97%A7+%E2%80%A2+%E2%80%A2+%E1%97%A3+++%E1%97%A7+%E2%80%A2+%E2%80%A2+%E1%97%A3+++%E1%97%A7+%E2%80%A2+%E2%80%A2+%E1%97%A3+++%E1%97%A7+%E2%80%A2+%E2%80%A2+%E1%97%A3;%E1%97%A3+%E2%80%A2+%E2%80%A2+%E1%97%A7+++%E1%97%A3+%E2%80%A2+%E2%80%A2+%E1%97%A7+++%E1%97%A3+%E2%80%A2+%E2%80%A2+%E1%97%A7+++%E1%97%A3+%E2%80%A2+%E2%80%A2+%E1%97%A7+++%E1%97%A3+%E2%80%A2+%E2%80%A2+%E1%97%A7" alt="Retro Divider" />
 </p>
 
 #### Automation Core
