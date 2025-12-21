@@ -21,8 +21,6 @@
 
 ---
 
-### 📊 自動化魔法分布 (Tech Mana Distribution)
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pan2618&layout=donut&theme=transparent&title_color=3776AB&text_color=333333&icon_color=3776AB&hide_border=true&langs_count=5&langs_list=Python,VBA,JavaScript,HTML,CSS" width="400px" />
 </p>
