@@ -5,6 +5,7 @@
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=1000&color=3776AB&width=900&lines=%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE;%E2%80%A2+%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE;%E2%80%A2+%E2%80%A2+%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE;%E2%80%A2+%E2%80%A2+%E2%80%A2+%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE++%F0%9F%91%BE" alt="Space Invaders" />
 </p>
+
 #### Automation Core
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white) 
 ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33?style=plastic&logo=playwright&logoColor=white) 
