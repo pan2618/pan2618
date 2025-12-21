@@ -1,4 +1,18 @@
-![Views](https://hits.seeyoufarm.com/dotgh/hit.svg?url=https://github.com/pan2618)
+```python
+class Pan2618:
+    def __init__(self):
+        self.name = "Pan"
+        self.role = "Software Development Engineer in Test (SDET)"
+        self.location = "Taiwan"
+        self.skills = ["Selenium", "Playwright", "Python", "Pandas"]
+        self.tools = ["Excel VBA", "Photoshop"]
+
+    def say_hi(self):
+        print("Thanks for dropping by! I automate things to make life easier.")
+
+me = Pan2618()
+me.say_hi()
+
 ### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
