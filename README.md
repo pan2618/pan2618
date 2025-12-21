@@ -1,4 +1,4 @@
-# 🏰 Welcome to Pan's Dungeon
+## Welcome
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&pause=1000&color=000000&width=600&lines=Adventurer+Pan+has+entered+the+dungeon!;Class:+SDET+(Software+Dev+Engineer+in+Test);Skills:+Automation+%26+Data+Analysis;Quest:+Automating+the+World+with+Code!" alt="Typing SVG" />
@@ -30,8 +30,3 @@
 </p>
 
 <br>
-
----
-
-### 🐲 冒險足跡 (The 3D Dungeon Map)
-![GitHub Isometric View](https://github-readme-stats.vercel.app/api?username=pan2618&show_icons=true&theme=radical&hide_border=true)
