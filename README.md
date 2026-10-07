@@ -22,11 +22,6 @@
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=plastic&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=plastic&logo=git&logoColor=white)
 
-#### AI-Assisted
-![Cursor](https://img.shields.io/badge/Cursor_Agent-%23000000?style=plastic&logo=cursor&logoColor=white)
-![Grok](https://img.shields.io/badge/Grok-Tech_Radar_Bot-%23000000?style=plastic)
-![Notion](https://img.shields.io/badge/Notion-Knowledge_Base-%23000000?style=plastic&logo=notion&logoColor=white)
-
 #### Interface & Design
 ![JS](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
