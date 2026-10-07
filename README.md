@@ -16,7 +16,7 @@
 ![YAML](https://img.shields.io/badge/YAML-%23CB171E?style=plastic&logo=yaml&logoColor=white)
 
 #### CI/CD & Environment
-![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-%230078D7?style=plastic)
+![Azure Devops](https://img.shields.io/badge/Azure_Pipelines-%230078D7?style=plastic)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=plastic&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=plastic&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=plastic&logo=gnubash&logoColor=white)
